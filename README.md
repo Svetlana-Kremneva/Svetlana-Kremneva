@@ -11,6 +11,7 @@ This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?
 ### Skills: 
 
 <p align="left"> 
+<a href="https://www.microsoft.com/en/microsoft-365//excel" target="_blank"><img src="https://www.computerworld.com/wp-content/uploads/2024/06/cw_microsoft_office_365_excel-100787147-orig.jpg?quality=50&strip=all" alt="MS Excel" height="40" /></a>   
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*r0LAvh2yGnWBz13mTkT-eA.png" alt="Power Bi" height="40" /></a>    
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
