@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Svetlana
+Svetlana Kremneva
 #### I am Analyst
 <!--
 **Svetlana-Kremneva/Svetlana-Kremneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
