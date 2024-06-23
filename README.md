@@ -1,5 +1,7 @@
 Svetlana Kremneva
 #### I am Analyst
+
+https://bogatyr.club/uploads/posts/2023-03/1679083841_bogatyr-club-p-zalivka-sinii-fon-foni-vkontakte-1.png
 <!--
 **Svetlana-Kremneva/Svetlana-Kremneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
