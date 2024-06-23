@@ -1,4 +1,4 @@
-#### Svetlana Kremneva
+# Svetlana Kremneva
 
 I'm anatyst. I really enjoy learning methods of analysis and forecasting as well as analysis tools. 
 
