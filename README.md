@@ -5,7 +5,7 @@ Also, I like to learn foreign languages.
 
 This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?hhtmFrom=resume_list) .
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svetlana-Kremneva&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Svetlana-Kremneva&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svetlana-Kremneva&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills: 
