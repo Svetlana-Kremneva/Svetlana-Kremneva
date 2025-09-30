@@ -19,6 +19,6 @@ This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?
 
 | MS SQL | PostgreSQL | Python |
 | ------------- | ------------- | ------------- |
-| <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgLqy51RIKJ7EYgjzJI2NiD3AZXvWFZX__Q&s" alt="mssql" width="40" height="40"/> </a>   | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="postgresql" width="40" height="40"/> </a> |<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
+| <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgLqy51RIKJ7EYgjzJI2NiD3AZXvWFZX__Q&s" alt="mssql" width="40" height="40"/> </a>   | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://pic2.zhimg.com/v2-0dfdb54388e8f84bc0a26fd0ecb93e91_r.jpg" alt="postgresql" width="40" height="40"/> </a> |<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
 
 
