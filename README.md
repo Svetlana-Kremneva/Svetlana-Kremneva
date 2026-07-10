@@ -18,6 +18,8 @@ This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?
 | ------------- | ------------- | ------------- |
 | <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgLqy51RIKJ7EYgjzJI2NiD3AZXvWFZX__Q&s" alt="mssql" width="40" height="40"/> </a>   | <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhBWRkLDzaUX_63fOqaLurDP1ezBQbu_9xQ&s" alt="postgresql" width="60" height="60"/> </a> |<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |
 
+py.checkio.org 
+ ------------- 
 <a href="https://py.checkio.org/user/Svetlana-Kremneva/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HzH4G4ZwEfCFLdc1uHMHo-oG-lUPc_RtUP1zRcneTw&s" alt="mssql" width="90" height="90"/> </a> 
 
 
