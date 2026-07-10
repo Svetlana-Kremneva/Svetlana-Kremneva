@@ -20,6 +20,6 @@ This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?
 
 py.checkio.org 
  ------------- 
-<a href="https://py.checkio.org/user/Svetlana-Kremneva/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HzH4G4ZwEfCFLdc1uHMHo-oG-lUPc_RtUP1zRcneTw&s" alt="mssql" width="90" height="90"/> </a> 
+<a href="https://py.checkio.org/user/Svetlana-Kremneva/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HzH4G4ZwEfCFLdc1uHMHo-oG-lUPc_RtUP1zRcneTw&s" alt="mssql" width="150" height="150"/> </a> 
 
 
