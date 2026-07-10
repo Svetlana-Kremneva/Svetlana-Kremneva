@@ -22,6 +22,6 @@ This is [My resume](https://hh.ru/resume/b3797be0ff0bc690cf0039ed1f3335624e7853?
 
 [![CheckiO]([https://shields.io)](https://checkio.org)](https://py.checkio.org/user/Svetlana-Kremneva/)
 
-
+| <a href="https://shields.io" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HzH4G4ZwEfCFLdc1uHMHo-oG-lUPc_RtUP1zRcneTw&s" alt="mssql" width="40" height="40"/> </a>   |
 
 
